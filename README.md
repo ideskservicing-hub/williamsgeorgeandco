@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Williams George & Co. - Chartered Accountants
 
-# Run and deploy your AI Studio app
+A professional, high-end website for Williams George & Co., built with React, Tailwind CSS, and Motion.
 
-This contains everything you need to run your app locally.
+## Features
+- Strategic Hero Section
+- Comprehensive Services Grid
+- About & Values Section
+- Leadership Team Profiles
+- Interactive Contact Hub
+- Fully Responsive Design
 
-View your app in AI Studio: https://ai.studio/apps/6e323487-9982-49c2-beab-daab7e048687
+## Tech Stack
+- **Frontend**: React 19
+- **Styling**: Tailwind CSS 4
+- **Animations**: Motion (formerly Framer Motion)
+- **Icons**: Lucide React
+- **Build Tool**: Vite
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Deployment
+This project is configured for deployment to GitHub Pages. See `GITHUB_DEPLOY_INSTRUCTIONS.md` for detailed steps.
